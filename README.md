@@ -1,7 +1,7 @@
 
 Many people are misinformed about the pandemic. Due to this misinformation, many people follow wrong practices. Medical workers, with their limited resources, are struggling to help the infected. People are panic-stricken during this stressful time. This leads to the misjudgment of symptoms and unnecessary hospital visits. Doctors and medical staff are overworked and need more resources, staff and help in general. They are finding it difficult to deal with the large numbers of cases coming into the hospitals. In addition, the people are also feeling unsupported and stressed.
 
-A-team’s proposed solution to tackle this problem was to create a website that compiles COVID-19 related data from trustworthy sources. The website is separated into three modules that each help the common man be informed of the current issues and best practices:
+A-team’s proposed solution to tackle this problem was to create a website that compiles COVID-19 related data from trustworthy sources. The website is separated into three modules that each help the common man be informed of the current issues and best practices.
 
 ### Team Members
 

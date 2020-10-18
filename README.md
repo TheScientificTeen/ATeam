@@ -25,7 +25,20 @@ The user will then progress onto section 3. This is the chatr bot section. BAsed
 
 ### Code
 
-Please see the screenshots and 
+Please see the screenshots and video below to understand the code that we wrote for this project.
+
+### Evaluation
+
+Our project is successful because it achieves the aim we et out to achieve about educating the public concisely regarding the pandemic and encouraging them to follow regulations. We also focused on the mathematics, health and machine learning themes which are central to our project. In order to improve the project in the future, we wil have more add-ons which we believe are very feasible.
+
+### Files and Links
+
+Google Drive Link: https://drive.google.com/drive/folders/1AQVZ5n8IdqzH64nZ_q1O9p3B7MHgtbVE?usp=sharing
+
+### References and Acknowldgements
+
+We acknowledge each other for ths support and efforts we contributed.
+
 
 ### Final Update - 24 Hours Mark
 

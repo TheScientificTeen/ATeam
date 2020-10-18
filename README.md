@@ -5,7 +5,7 @@ A-team’s proposed solution to tackle this problem was to create a website that
 
 ### Team Members
 
-Ahmed is a mathematics enthusiast. His role on the team is idea creation and GitHUb management. 
+Ahmed is a mathematics enthusiast. His role on the team is idea creation and GitHUb management. Anish is a logical handler with deep understanding and love for mathematical and computational problem solving. His role on the team is programming, research, and ideation. Samay is an avid computer scientist and he enjoy working with python. His role on the team was working on the idea nad presentation.
 
 ### Our Idea
 
